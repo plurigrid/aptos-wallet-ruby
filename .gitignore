@@ -1,0 +1,10 @@
+/.bundle/
+/vendor/
+Gemfile.lock
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.der
+.DS_Store
